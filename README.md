@@ -8,7 +8,7 @@
   [Mapacova](http://Mapacova.glitch.me)
   ![alt text](https://github.com/darzhz/darzhz.github.io/blob/master/icon.ico "Logo Title Text 1")<br>
   #other projects are private because(i'm lazy)are unfinished😋<br>
-  you can reach me via instagram 
+  you can reach me via instagram <i><a href="https://www.instagram.com/oru_pavam_pyyan">@oru_pavam_pyyan</a></i>
 <i class="fas fa-globe"></i>
  <link rel="stylesheet" type="text/css" href="https://github.com/darzhz/lightlesshouse/tree/master/icons/awesome/a/css">
 <!--
