@@ -1,5 +1,5 @@
 ### Namaskaram 👋,
-## I'm Darzh and let's make stuff!
+## I'm Darzh and let's make some stuff!
 ![](https://raw.githubusercontent.com/darzhz/darzhz/master/24098.gif)
 🔭 I’m currently working on finding something cool <br>
 🌱 I’m currently learning tdd<br>and all my tests are failing(TT)(TT)<br>
