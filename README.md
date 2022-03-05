@@ -1,25 +1,23 @@
-### Hi there 👋,
-## I'm darzh and i make stuff,i guess😅
-🔭 I’m currently working on An Opensource pos software <br>
-🌱 I’m currently learning full stack devlopment and everything else😊<br>
-#### ⚡ Fun stuff i made(maybe not really fun)
-  [LightLessHouse](http://llh.glitch.me)
-  ![alt text](https://github.com/darzhz/lightlesshouse/blob/master/icons/lighthouse.ico "Logo Title Text 1")
-  [Mapacova](http://Mapacova.glitch.me)
-  ![alt text](https://github.com/darzhz/darzhz.github.io/blob/master/icon.ico "Logo Title Text 1")<br>
-  #other projects are private because(i'm lazy)are unfinished😋<br>
+### Namaskaram 👋,
+## I'm darzh and let's make stuff!
+![](https://github.com/darzhz/24098.gif)
+🔭 I’m currently working on finding something cool <br>
+🌱 I’m currently learning tdd<br>
+#### ⚡all the project live demos at
+  [Linksbydarzh](https://linksbydarzh.glitch.me)
+  <br>
   you can reach me via instagram <i><a href="https://www.instagram.com/oru_pavam_pyyan">@oru_pavam_pyyan</a></i>
 <i class="fas fa-globe"></i>
- <link rel="stylesheet" type="text/css" href="https://github.com/darzhz/lightlesshouse/tree/master/icons/awesome/a/css">
+ <link rel="stylesheet" type="text/css" href="https://github.com/darzhz/lightlesshouse/tree/master/icons/awesome/a/css.css">
 <!--
 **darzhz/darzhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning svelte
+- 👯 I’m looking to collaborate on anything really
+- 🤔 I’m looking for help with test driven development
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
