@@ -5,6 +5,13 @@
 🌱 I’m currently learning tdd<br>and all my tests are failing(TT)(TT)<br>
 ✨ what do you mean by "duct taping isn't a solution" *\0/*<br>
 🥈most of the commits are from my phone✓
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darzhz&layout=compact&theme=radical&hide_border=true)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darzhz&theme=radical&hide_border=true)](https://git.io/streak-stats)
+:fire:pin worthy projects:fire:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=realnotes&theme=radical&hide_border=true)](https://github.com/darzhz/realnotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=llh&theme=radical&hide_border=true)](https://github.com/darzhz/llh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=dont_fall&theme=radical&hide_border=true)](https://github.com/darzhz/dont_fall)
+
 ### ⚡all the project live demos at
  ## [Linksbydarzh](https://linksbydarzh.glitch.me)
   <br>
