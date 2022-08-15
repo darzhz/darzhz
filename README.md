@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/darzhz/darzhz/master/24098.gif)
 🔭 I’m currently working on finding something cool <br>
 🌱 I’m currently learning tdd<br>and all my tests are failing(TT)(TT)<br>
-✨ what do you mean by "ducktaping isn't a solution" *\0/*<br>
+✨ what do you mean by "duct taping isn't a solution" *\0/*<br>
 🥈most of the commits are from my phone✓
 ### ⚡all the project live demos at
  ## [Linksbydarzh](https://linksbydarzh.glitch.me)
