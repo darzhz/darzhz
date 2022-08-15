@@ -1,17 +1,19 @@
 ### Namaskaram 👋,
 ## I'm Darzh and let's make some stuff!
 ![](https://raw.githubusercontent.com/darzhz/darzhz/master/24098.gif)
-🔭 I’m currently working on finding something cool <br>
-🌱 I’m currently learning tdd<br>and all my tests are failing(TT)(TT)<br>
-✨ what do you mean by "duct taping isn't a solution" *\0/*<br>
-🥈most of the commits are from my phone✓
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darzhz&layout=compact&theme=radical&hide_border=true)]()
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darzhz&theme=radical&hide_border=true)](https://git.io/streak-stats)
 :fire:pin worthy projects:fire:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=realnotes&theme=radical&hide_border=true)](https://github.com/darzhz/realnotes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=llh&theme=radical&hide_border=true)](https://github.com/darzhz/llh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=lightlesshouse&theme=radical&hide_border=true)](https://github.com/darzhz/lightlesshouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=mapacova&theme=radical&hide_border=true)](https://github.com/darzhz/mapacova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=scattatle&theme=radical&hide_border=true)](https://github.com/darzhz/scattatle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=dont_fall&theme=radical&hide_border=true)](https://github.com/darzhz/dont_fall)
-
+I’m currently working on finding something cool <br>
+:robot:I’m currently learning svelte<br>
+✨ what do you mean by "duct taping isn't a solution" *\0/*<br>
+🥈most of the commits are from my phone✓
 ### ⚡all the project live demos at
  ## [Linksbydarzh](https://linksbydarzh.glitch.me)
   <br>
