@@ -1,9 +1,12 @@
 # Namaskaram 👋,
 ## I'm Darzh and let's make some cool stuff!
+
 ![](https://raw.githubusercontent.com/darzhz/darzhz/master/24098.gif)
+<br/>
 I'm an aspiring creative developer and designer just figuring out and finding joy in solving
-problems one after another 
+problems one after another
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darzhz&layout=compact&theme=radical&hide_border=true)]()
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darzhz&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ##  projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=realnotes&theme=radical&hide_border=true)](https://github.com/darzhz/realnotes)
@@ -16,7 +19,7 @@ problems one after another
  [Linksbydarzh](https://linksbydarzh.glitch.me)
   <br>
 ## contact
-  you can reach me via instagram <i><a href="https://www.instagram.com/oru_pavam_pyyan">@oru_pavam_pyyan</a></i>
+  you can reach me via instagram <i><a href="https://www.instagram.com/d4.rzh">@d4.rzh</a></i>
 <i class="fas fa-globe"></i>
  <link rel="stylesheet" type="text/css" href="https://github.com/darzhz/lightlesshouse/tree/master/icons/awesome/a/css.css">
 <!--
