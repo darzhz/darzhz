@@ -1,43 +1,60 @@
-# 👋 Namaskaram, I'm Darzh!
+# Darsh Shyam Kumar
 
-I'm an aspiring **creative developer and designer** finding joy in solving problems, one challenge at a time. Whether it's coding, designing, or just thinking creatively, I'm all in!
+## 👨‍💻 Full-Stack Developer
 
-![Cool GIF](https://raw.githubusercontent.com/darzhz/darzhz/master/24098.gif)
+I'm a full-stack developer focused on building fast, scalable, and production-grade software - both solo and in teams. Currently shipping enterprise apps with .NET, React, and Docker at Enxcl.
 
-### 💻 **Languages & Tools:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darzhz&layout=compact&theme=radical&hide_border=true)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/darsh-shyam-kumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://darzhz.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:darzhz@protonmail.com)
 
-### 🔥 **GitHub Streak:**
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darzhz&theme=radical&hide_border=true)](https://git.io/streak-stats)
+## 🛠️ Tech Stack
 
----
+- **Languages**: JavaScript, TypeScript, Golang, C, Java, Python
+- **Frameworks**: React, Next.js, Svelte, Node.js, .NET, Tailwind CSS
+- **Tools**: Docker, Git, Linux, NGINX, SQL, Redis, WebSocket, QGIS, Figma
+- **Cloud**: Google Cloud, Oracle Cloud
 
-## 🚀 **Projects I'm Proud Of:**
-Check out some of my latest work:
+## 🚀 Featured Projects
 
-[![RealNotes](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=realnotes&theme=radical&hide_border=true)](https://github.com/darzhz/realnotes)
-[![LightlessHouse](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=lightlesshouse&theme=radical&hide_border=true)](https://github.com/darzhz/lightlesshouse)
-[![Mapacova](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=mapacova&theme=radical&hide_border=true)](https://github.com/darzhz/mapacova)
-[![Scattatle](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=scattatle&theme=radical&hide_border=true)](https://github.com/darzhz/scattatle)
-[![Don't Fall](https://github-readme-stats.vercel.app/api/pin/?username=darzhz&repo=dont_fall&theme=radical&hide_border=true)](https://github.com/darzhz/dont_fall)
+### Flowjo
+A flow-based API testing and documentation tool inspired by Postman Flows.
+- Built with TypeScript, React, and Rust
+- Features visual test flow building with conditions, chained responses, and in-app documentation
+- Optimized for developer experience and workflow speed
 
----
+### Mini Torrent Client
+A BitTorrent protocol implementation built in .NET/C#.
+- Parses .torrent files, connects to peers, handles piece verification, and downloads chunks in parallel
+- Implements peer wire protocol handling, basic DHT logic, and chunked file writing
+- Built to explore networking, async patterns, and protocol design
 
-## 🌟 **Live Demos:**
-Check out my work live:
+### Zero0
+A platform for event service listings.
+- Built with Next.js, deployed with NGINX on Oracle Cloud
+- Complete end-to-end system from frontend to custom reverse proxy setup
 
-- [Links by Darzh](https://linksbydarzh.glitch.me)
-- [portfolio](https://darzhz.github.io/)
+### RealNotes
+A real-time note-sharing web app.
+- Built with Node.js, Svelte, and WebSockets
+- Features live synchronization across browsers and 2-hour auto-expiry
+- Weekend sprint project that's still live and used for collaborative notes
 
----
+## 🏆 Achievements
 
-## 🤝 **Let's Connect:**
-Feel free to reach out to me on Instagram: [@d4.rzh](https://www.instagram.com/d4.rzh)
+- 1st Place All India Project Expo — Mahagurutech 2024 (Lightless House - light pollution analysis tool)
+- Campus Lead — Google Developer Student Club, Mahagurutech (2023-2024)
+- Best Outgoing Student — Mahagurutech (2023-2024)
 
----
+## 💼 Professional Experience
 
-**✨ Let's create something amazing together!**
+Currently working as a Full-Stack Developer at Enxcl Business Solutions, where I develop and maintain enterprise applications using .NET, TypeScript, and Next.js within Docker environments.
 
----
+Previously worked as a freelance developer on various projects including:
+- Audio-based lip synchronization tool using TensorFlow and GANs
+- Food calorie estimator with portion size detection (React Native, PyTorch)
+- Timetable generation system using Genetic Algorithms
 
-This should give your README a sleek and polished look while still being informative and engaging!
+## 💭 About Me
+
+I care more about clean, maintainable code and useful products than fancy job titles. I enjoy taking ownership, figuring things out, and shipping quality software. Always looking to collaborate on interesting projects!
