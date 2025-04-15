@@ -31,7 +31,7 @@ A BitTorrent protocol implementation built in .NET/C#.
 
 ### Zero0
 A platform for event service listings.
-- Built with Next.js, deployed with NGINX on Oracle Cloud
+- Built with React,This SPA is deployed with NGINX on Oracle Cloud
 - Complete end-to-end system from frontend to custom reverse proxy setup
 
 ### RealNotes
