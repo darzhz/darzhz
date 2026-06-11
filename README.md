@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Full-Stack Developer
 
-I'm a full-stack developer focused on building fast, scalable, and production-grade software - both solo and in teams. Currently shipping enterprise apps with .NET, React, and Docker at Enxcl.
+I'm a full-stack developer focused on building fast, scalable, and production-grade software - both solo and in teams. Currently shipping enterprise apps with .NET, React, and Docker.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/darsh-shyam-kumar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://darzhz.github.io)
